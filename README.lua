@@ -1,10 +1,5 @@
 # fps-runservice
-This script allow you does show your fps run service in roblox lua with put it in textlabel
-   |
-   |
-v --- v
-   v
-   
+--This script allow you does show your fps run service in roblox lua with put it in textlabel
 local fps = 0
 
 local rs = game:GetService("RunService")
